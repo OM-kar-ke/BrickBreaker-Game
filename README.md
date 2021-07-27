@@ -1,2 +1,2 @@
 # BrickBreaker-Game
-A famous BrickBreaker game programmed in c++ using OPENGL, GLUT.
+A famous BrickBreaker game programmed in C++ using OPENGL, GLUT.
